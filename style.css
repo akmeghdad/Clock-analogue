@@ -1,0 +1,52 @@
+img{
+    max-width: 100%;
+}
+.header-menu {
+}
+.header-menu__heading_1 {
+}
+.clock {
+}
+.clock__backgroung-image {
+}
+.clock__hand-hour {
+}
+.clock__hand-minut_image {
+    position: absolute;
+    top: 280px;
+    left: 280px;
+    width: 300px;
+    transform: rotate(797deg);
+    transform-origin: 7% 50%;
+}
+.clock__hand-second_image {
+    position: absolute;
+    top: 284px;
+    left: 175px;
+    width: 405px;
+    transform: rotate(477deg);
+    transform-origin: 31% 50%;
+}
+.clock__background {
+    position: relative;
+    margin: auto;
+    width: 600px;
+    height: 600px;
+}
+
+.clock__hand-hour_image {
+    position: absolute;
+    top: 259px;
+    left: 276px;
+    width: 220px;
+    transform: rotate(1397deg);
+    transform-origin: 11% 48%;
+}
+.clock__digital{
+    font-family: 'Orbitron', sans-serif;
+    font-size: 50px;
+    color: green;
+    position: absolute;
+    top: 60%;
+    left: 26%;
+}
